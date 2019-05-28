@@ -13,25 +13,13 @@
 					<key>url</key>
 					<string>https://github.com/kwangsukyoon/mebiz_git/raw/master/MEbiz.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://www.dropbox.com/s/tgvgcmhnj8tj24g/icon.png?dl=0</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://www.dropbox.com/s/tgvgcmhnj8tj24g/icon.png?dl=0</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.cosmax.mebiz.ios.erns</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
